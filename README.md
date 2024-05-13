@@ -1,4 +1,5 @@
 it prints a puppy!!!!
 
-![image](https://github.com/LAIKAAAAAA/puppy/assets/141584390/f2c7e9ea-3b23-4972-88c2-8744851af2c8)
+![image](https://github.com/LAIKAAAAAA/puppy/assets/141584390/f32d705c-31f9-4ab4-83d6-d834e455d175)
+
 
